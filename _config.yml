@@ -84,7 +84,8 @@ content:
         quote: >
           UPP is Czech largest Visual effects studio in Czech Republic.
         description: | # this will include new lines to allow paragraphs
-            My work is maintain Linux based workstations & servers hardware/software, storages , Virtual Servers and Cyber scan development.
+            My work is maintain Linux based workstations & servers and monitoring of them also hardware/software diagnostics, storages, 
+            databases, backup systems , Virtual Servers and Cyber scan development.
 
       - layout: left
         title: Baldwinprague s.r.o.
@@ -95,7 +96,8 @@ content:
         quote: >
           Baldwinprague is small production and post-production house.
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services.
+            I am providing IT consultations, and general IT services like planing & maintaining server with virtual machines and storage, Network infrastructure, security
+            ans also Nextcloud.
 
       - layout: left
         title: Interprax s.r.o.
@@ -106,7 +108,7 @@ content:
         quote: >
           Interprax is general practitioner's office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services.
+            I am providing IT consultations, and general IT services like server proxmox server  virtual machines , windows workstations and backup storage and nwtwork and security.
 
       - layout: left
         title: Pro-audio s.r.o
@@ -117,7 +119,7 @@ content:
         quote: >
           Pro-aduio is audilogy office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services.
+            I am providing IT consultations, and general IT services, Usualy windows worksatins, and backup storages and network insfrastructure and securing it.
 
       - layout: left
         title: IBM
@@ -212,20 +214,35 @@ content:
     
   - title: Skills
     layout: text
-    sub_title: Soft
     content: | # this will include new lines to allow paragraphs
-      Emapthy, Acitive listening,  Verbal, Non-verbal comminication, 
-      
-      <Friendliness | Storytrelling | Humor | Tolerance | Collaboration | Sensitivity | Relationship bulding | Meditation | Exchanging ideas | Respectfulness | Negotiation | Delgation | Analysis | Responsibility | Self-motivation | Observation | Initiative | Solution-finding | Innovation | Focus
+     #### Soft
+     Emapthy, Acitive listening, Verbal/ Non-verbal comminication, <mark>Friendliness </mark>,  Storytrelling , Humor , 
+     Tolerance , Collaboration , Sensitivity , Relationship bulding , Meditation , Exchanging ideas , Respectfulness , 
+     Negotiation , Delgation , Analysis , Responsibility , Self-motivation , Observation , Initiative , Solution-finding , Innovation , Focus
+     
 
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+     #### Hard
+     <mark>Unix like systems </mark>, Windows systems , SQL , Golang , Shell scripting , Hardware diagnostic , Networking , Virtualization , Storages , 
+     basic Web development , Web aplications , <mark>Troubleshooting </mark>, Orchestration "Ansible" , System monitoring "Zabbix", 
+     <mark>IT Infrastructure planing </mark> , driving license B,
 
-      Look at this cool image  
-      ![Trees](images/landscape-trees.jpg "Trees")
+  - title: Languages
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Czech native
+
+      English advanced
+
+      Russian basic
+  
+
+
+
+  - title: Hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs   
+      <mark>Mountine climbing</mark>, Maps , <mark>Photography</mark>, Reading , Learning , Phylosophy , Cooking , Walking , Cycling , <mark>Traveling</mark> , Cinema, Friends 
+
 
 # Footer
 footer_show_references: true
