@@ -48,7 +48,7 @@ linkedin_username: martin-podhola-085a60125
 # about_title: About Me
 about_profile_image: images/2019-08-13.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi my name is Martin and I am IT specialist born in 2.8.1985 with 10+ yers of experience in various IT fileds.Adept at computer and software systems, security and privacy. Excellent troubleshooting and organizational skills.
+ Hi my name is Martin and I am IT specialist born in 2.8.1985 with 10+ yers of experience in various IT fileds with work abroad experineces. Adept at computer and software systems, security and privacy. Excellent troubleshooting and organizational skills.
 
   I am most skilled in: <mark>Linux</mark> and <mark>cooking curry</mark>
 
@@ -84,8 +84,8 @@ content:
         quote: >
           UPP is Czech largest Visual effects studio in Czech Republic.
         description: | # this will include new lines to allow paragraphs
-            My work is maintain Linux based workstations & servers and monitoring of them also hardware/software diagnostics, storages, 
-            databases, backup systems , Virtual Servers and Cyber scan development.
+            My work in UPP is handle tasks, troubleshout and maintain Linux <mark>Centos </mark> , <mark>Rocky linxu</mark>, <mark>Debian</mark> based workstations & servers and monitoring infrastructure <mark>Zabbix</mark>, also hardware/software diagnostics, planing development, planing and mainting storages <mark>Free BSD</mark>, <mark>Tru NAS</mark>
+            databases <mark>Mysql</mark>, backup systems <mark>Percona-xtrabackup</mark>, <mark>borg backup</mark>, Also maintian hypervisors <mark>XCP-NG</mark> and storages <mark>Free BSD</mark> , <mark>True nas</mark> Cyber scan development, Network issues trubleshooting.
 
       - layout: left
         title: Baldwinprague s.r.o.
@@ -96,8 +96,8 @@ content:
         quote: >
           Baldwinprague is small production and post-production house.
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services like planing & maintaining server with virtual machines and storage, Network infrastructure, security
-            ans also Nextcloud.
+            I am providing IT consultations, and general IT services like planing & maintaining server with virtual machines and storage, Network infrastructure <mark>Mikrotik</mark>, security
+            ans also cloud sytem <mark>Nextcloud</mark> and databases <mark>Mysql</mark>, <mark>Postgre sql</mark> & non sql db <mark>Elastic search</mark>
 
       - layout: left
         title: Interprax s.r.o.
@@ -108,7 +108,7 @@ content:
         quote: >
           Interprax is general practitioner's office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services like server proxmox server  virtual machines , windows workstations and backup storage and nwtwork and security.
+            I am providing IT consultations, handling tasks and provide general IT services like maintain  <mark>Proxmox</mark> server, virtual machines , windows workstations and medical software PC Doktor, small storage, network<mark>Mikrotik</mark>, backups and security.
 
       - layout: left
         title: Pro-audio s.r.o
@@ -119,7 +119,7 @@ content:
         quote: >
           Pro-aduio is audilogy office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services, Usualy windows worksatins, and backup storages and network insfrastructure and securing it.
+            I am providing IT consultations,handling tasks and provide general IT services like supporting windows workstations, and small storages and network insfrastructure <mark>Mikrotik</mark> , backups and securing it .
 
       - layout: left
         title: IBM
@@ -130,7 +130,7 @@ content:
         quote: >
           IBM "big blue" Is an American multinational technology corporation 
         description: | # this will include new lines to allow paragraphs
-            My work was maintain IBM Power systems , SAN storages, Databases and tape libraries backup systems.
+            My work in IBM was customer oriented and I maintain and solve various tasks mostly on <mark>Oracle</mark> database with RAC clusters, unix operating system  <mark>AIX</mark> mainting HACMP clusters, manageing hardware issues on <mark>IBM Power systems</mark>, trubleshooting SAN storages and tape libraries backup systems <mark>IBM TSM</mark>.
 
       - layout: left
         title: GE Money Bank
@@ -141,7 +141,7 @@ content:
         quote: >
           GE Money bank was 4th. largest bank in Czech owned by GE.
         description: | # this will include new lines to allow paragraphs
-            My work was developing various APIes and workflows on custom build ESB.
+            My position In GE Money bank was handling task, troublehoot probles and developing various APIes and workflows on custom build <mark>ESB</mark> and Working with Database <mark>Oracle DB</mark> Reporting projects true Enterprice Architect.
 
       - layout: left
         title: T-Systems
@@ -152,7 +152,7 @@ content:
         quote: >
           Czech part of T-Systems was part of Deutche telecom nowdays is fused with T-Mobile
         description: | # this will include new lines to allow paragraphs
-            My role was Supporting various applications and databases for T-Systems clients.
+            My roles was Supporting various applications and databases for T-Systems clients and worked with technologies like <mark> IBM AIX</mark>, <mark>IBM Websphere Aplications </mark>, Apache Tomcat, Databses MS SQL, I was also in role of Project manager and Service owner responsible for development and supporting of internal applications.
 
       - layout: left
         title: Hönigsberg & Düvel Datentechnik Czech s.r.o.
@@ -163,7 +163,7 @@ content:
         quote: >
           H&D was an IT company owned by Volkswagen A.G.
         description: | # this will include new lines to allow paragraphs
-            My role was: Supporting PLM Aplication and aplication servers for VW concern.
+            I was member of support team of PLM aplication from Simens Teamcenter Enegenering and aplication servers <mark></IBM Websphere Application server> and <mark>Sun Solaris</mark> in Wolfsburg Volkswagen a.g.
 
       - layout: left
         title: Your system s.r.o.
@@ -185,7 +185,7 @@ content:
         quote: >
           Largest Irish brewery
         description: | # this will include new lines to allow paragraphs
-            My role was best bartender on planet*
+            My role was best bartender on planet:)
 
 
   - title: Education # Title for the section
@@ -209,7 +209,7 @@ content:
         quote: >
           Electronical Computer Systems
         description: | # this will include new lines to allow paragraphs
-          During my studies on High school I learned lot about difernt subject which .................
+          During my studies on High school I learned core of my knowlodage for example how electricyty and computers works.
 
     
   - title: Skills
@@ -217,7 +217,7 @@ content:
     content: | # this will include new lines to allow paragraphs
      #### Soft
      Emapthy, Acitive listening, Verbal/ Non-verbal comminication, <mark>Friendliness </mark>,  Storytrelling , Humor , 
-     Tolerance , Collaboration , Sensitivity , Relationship bulding , Meditation , Exchanging ideas , Respectfulness , 
+     Tolerance , Collaboration , Sensitivity , Relationship bulding , Meditation , <mark>Exchanging ideas</mark> , <mark>Respectfulness</mark>, 
      Negotiation , Delgation , Analysis , Responsibility , Self-motivation , Observation , Initiative , Solution-finding , Innovation , Focus
      
 
