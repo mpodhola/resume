@@ -96,8 +96,8 @@ content:
         quote: >
           Baldwinprague is small production and post-production house.
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services like planing & maintaining server with virtual machines and storage, Network infrastructure <mark>Mikrotik</mark>, security
-            ans also cloud sytem <mark>Nextcloud</mark> and databases <mark>Mysql</mark>, <mark>Postgre sql</mark> & non sql db <mark>Elastic search</mark>
+            I am providing IT consultations, and general IT services. Planing & maintaining server with virtual machines, Network infrastructure <mark>Mikrotik</mark>, security
+            ans also cloud platform <mark>Nextcloud</mark> and databases <mark>Mysql</mark>, <mark>Postgre sql</mark>
 
       - layout: left
         title: Interprax s.r.o.
@@ -163,7 +163,7 @@ content:
         quote: >
           H&D was an IT company owned by Volkswagen A.G.
         description: | # this will include new lines to allow paragraphs
-            I was member of support team of PLM aplication from Simens Teamcenter Enegenering and aplication servers <mark></IBM Websphere Application server> and <mark>Sun Solaris</mark> in Wolfsburg Volkswagen a.g.
+            I was member of support team of PLM aplication from Simens Teamcenter Enegenering and aplication servers <mark>IBM Websphere Application server</mark>, Sun Solaris in Wolfsburg Volkswagen a.g.
 
       - layout: left
         title: Your system s.r.o.
