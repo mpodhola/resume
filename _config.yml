@@ -48,9 +48,7 @@ linkedin_username: martin-podhola-085a60125
 # about_title: About Me
 about_profile_image: images/2019-08-13.jpg
 about_content: | # this will include new lines to allow paragraphs
- Hi my name is Martin and I am IT specialist born in 2.8.1985 with 10+ yers of experience in various IT fileds with work abroad experineces. Adept at computer and software systems, security and privacy. Excellent troubleshooting and organizational skills.
-
-  I am most skilled in: <mark>Linux</mark> and <mark>cooking curry</mark>
+ Hi my name is Martin and I am IT specialist born in 2.8.1985 with 10+ yers of experience in various IT fileds with work abroad experineces. Adept at computer and software systems, security and privacy. Excellent troubleshooting and organizational skills. I am most skilled in: <mark>Linux</mark> and <mark>cooking curry</mark> :)
 
 content:
 #  - title: Projects # Title for the section
@@ -84,8 +82,8 @@ content:
         quote: >
           UPP is Czech largest Visual effects studio in Czech Republic.
         description: | # this will include new lines to allow paragraphs
-            My work in UPP is handle tasks, troubleshout and maintain Linux <mark>Centos </mark> , <mark>Rocky linxu</mark>, <mark>Debian</mark> based workstations & servers and monitoring infrastructure <mark>Zabbix</mark>, also hardware/software diagnostics, planing development, planing and mainting storages <mark>Free BSD</mark>, <mark>Tru NAS</mark>
-            databases <mark>Mysql</mark>, backup systems <mark>Percona-xtrabackup</mark>, <mark>borg backup</mark>, Also maintian hypervisors <mark>XCP-NG</mark> and storages <mark>Free BSD</mark> , <mark>True nas</mark> Cyber scan development, Network issues trubleshooting.
+            My usual work in UPP is handle tasks, troubleshout and maintain Linux <mark>Centos </mark>, <mark>Rocky linxu</mark>, <mark>Debian</mark> based workstations, servers and network infrastructure also monitoring servers  <mark>Zabbix</mark>, also hardware/software diagnostics, planing development, and deployng new softeware / applications <mark>Ansible</mark> planing and mainting storages <mark>Free BSD</mark>, <mark>Tru NAS</mark>
+            databases <mark>Mysql</mark>, backup systems <mark>Percona-xtrabackup</mark>, <mark>borg backup</mark>, Also maintian hypervisors <mark>XCP-NG</mark> and storages <mark>Free BSD</mark>, <mark>True nas</mark> And cyber scan development.
 
       - layout: left
         title: Baldwinprague s.r.o.
@@ -96,8 +94,8 @@ content:
         quote: >
           Baldwinprague is small production and post-production house.
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, and general IT services. Planing & maintaining server with virtual machines, Network infrastructure <mark>Mikrotik</mark>, security
-            ans also cloud platform <mark>Nextcloud</mark> and databases <mark>Mysql</mark>, <mark>Postgre sql</mark>
+            For Baldwinprague I am providing IT consultations, and general IT services. Planing & maintaining server with virtual machines, Network infrastructure <mark>Mikrotik</mark>, security
+            ans also cloud platform <mark>Nextcloud</mark> and databases <mark>Mysql</mark>, <mark>Postgre sql</mark> and also user support on wokrstations Mac OS , Windows
 
       - layout: left
         title: Interprax s.r.o.
@@ -108,7 +106,7 @@ content:
         quote: >
           Interprax is general practitioner's office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations, handling tasks and provide general IT services like maintain  <mark>Proxmox</mark> server, virtual machines , windows workstations and medical software PC Doktor, small storage, network<mark>Mikrotik</mark>, backups and security.
+            For Interprax I am an IT support guy which handling tasks and provide general IT services like maintain  <mark>Proxmox</mark> server, virtual machines , windows workstations and medical software PC Doktor, small storage, network<mark>Mikrotik</mark>, backups and security, and keep infrastructure up to date and secure.
 
       - layout: left
         title: Pro-audio s.r.o
@@ -119,7 +117,7 @@ content:
         quote: >
           Pro-aduio is audilogy office
         description: | # this will include new lines to allow paragraphs
-            I am providing IT consultations,handling tasks and provide general IT services like supporting windows workstations, and small storages and network insfrastructure <mark>Mikrotik</mark> , backups and securing it .
+            I am providing IT consultations,handling tasks and provide general IT suport  for windows workstations, and small storages and network insfrastructure  <mark>Mikrotik</mark> and keep dem up to date and secure.
 
       - layout: left
         title: IBM
@@ -130,7 +128,7 @@ content:
         quote: >
           IBM "big blue" Is an American multinational technology corporation 
         description: | # this will include new lines to allow paragraphs
-            My work in IBM was customer oriented and I maintain and solve various tasks mostly on <mark>Oracle</mark> database with RAC clusters, unix operating system  <mark>AIX</mark> mainting HACMP clusters, manageing hardware issues on <mark>IBM Power systems</mark>, trubleshooting SAN storages and tape libraries backup systems <mark>IBM TSM</mark>.
+            My work in IBM was customer oriented and I maintain and solve various tasks mostly on <mark>Oracle database</mark> with RAC clusters, unix operating system  <mark>AIX</mark> mainting HACMP clusters, manageing hardware issues on <mark>IBM Power systems</mark>, trubleshooting SAN storages and tape libraries backup systems <mark>IBM TSM</mark>.
 
       - layout: left
         title: GE Money Bank
@@ -141,7 +139,7 @@ content:
         quote: >
           GE Money bank was 4th. largest bank in Czech owned by GE.
         description: | # this will include new lines to allow paragraphs
-            My position In GE Money bank was handling task, troublehoot probles and developing various APIes and workflows on custom build <mark>ESB</mark> and Working with Database <mark>Oracle DB</mark> Reporting projects true Enterprice Architect.
+            My position In GE Money bank was handling task, troublehoot probles and developing various APIes and workflows on custom build <mark>ESB</mark> and Working with Database <mark>Oracle database</mark> Reporting and document projects true Enterprice Architect.
 
       - layout: left
         title: T-Systems
@@ -152,7 +150,7 @@ content:
         quote: >
           Czech part of T-Systems was part of Deutche telecom nowdays is fused with T-Mobile
         description: | # this will include new lines to allow paragraphs
-            My roles was Supporting various applications and databases for T-Systems clients and worked with technologies like <mark> IBM AIX</mark>, <mark>IBM Websphere Aplications </mark>, Apache Tomcat, Databses MS SQL, I was also in role of Project manager and Service owner responsible for development and supporting of internal applications.
+            My roles was Supporting various applications and databases for T-Systems clients and worked with technologies like <mark> IBM AIX</mark>, <mark>IBM Websphere Aplications</mark>, Apache Tomcat, Databses MS SQL, I was also in role of Project manager and Service owner responsible for development and supporting of internal applications.
 
       - layout: left
         title: Hönigsberg & Düvel Datentechnik Czech s.r.o.
@@ -163,7 +161,7 @@ content:
         quote: >
           H&D was an IT company owned by Volkswagen A.G.
         description: | # this will include new lines to allow paragraphs
-            I was member of support team of PLM aplication from Simens Teamcenter Enegenering and aplication servers <mark>IBM Websphere Application server</mark>, Sun Solaris in Wolfsburg Volkswagen a.g.
+            I was member of support team of PLM aplication from Simens Teamcenter Enegenering and aplication servers <mark>IBM Websphere Application server</mark>, system was buil on Sun servers. Work was my bigest it abroad experience  I lived in Wolfsburg and work for Volkswagen a.g.
 
       - layout: left
         title: Your system s.r.o.
@@ -177,7 +175,7 @@ content:
             My role was supporting Windows server systems.
 
       - layout: left
-        title: Guinness Store House
+        title: Guinness Storehouse
         link: https://www.guinness-storehouse.com/en/home
         # link_text: boringcompany.com
         sub_title: Windows server specialist
