@@ -48,7 +48,7 @@ linkedin_username: martin-podhola-085a60125
 # about_title: About Me
 about_profile_image: images/2019-08-13.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an IT specialist with over a decade of diverse experience in the IT industry, including international work experience. I mainly specialize in computer and software systems, security and privacy. I am known for excellent organizational skills and prompt troubleshooting. . My key areas of expertise include <mark>Linux</mark> and unexpected talent for <mark>cooking curry</mark>. 
+  I am an IT specialist with over a decade of diverse experience in the IT industry, including international work experience. I mainly specialize in computer and software systems, security and privacy. I am known for excellent organizational skills and prompt troubleshooting. My key areas of expertise include <mark>Linux</mark> and unexpected talent for <mark>cooking curry</mark>. 
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -79,9 +79,9 @@ content:
         sub_title: Linux Administrator "Freelence"
         caption: 2017 - Present
         quote: >
-          UPP is Czech largest Visual effects studio in Czech Republic.
+          UPP is the Czech largest Visual effects studio in Czech Republic.
         description: | # this will include new lines to allow paragraphs
-         At UPP, my typical responsibilities include handling tasks, troubleshooting, and maintaining Linux <mark>CentOS</mark>, <mark>Rocky Linux</mark>, and <mark>Debian</mark> workstations, servers, and network infrastructure. I also monitor servers using <mark>Zabbix</mark> and perform hardware/software diagnostics. In addition, I'm involved in planning development and deploying new software/applications using <mark>Ansible</mark>, maintaining storage systems like <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, managing <mark>MySQL</mark> databases, and overseeing backup systems such as <mark>Percona XtraBackup</mark> and Borg Backup. Furthermore, I maintain hypervisors like <mark>XCP-NG</mark> and storage systems based on <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, as well as contribute to cybersecurity scan development.
+         At UPP, my typical responsibilities include handling tasks, troubleshooting, and maintaining Linux <mark>CentOS</mark>, <mark>Rocky Linux</mark>, and <mark>Debian</mark> workstations, servers, and network infrastructure. I also monitor servers using <mark>Zabbix</mark> and perform hardware/software diagnostics. In addition, I'm involved in planning development and deploying new software/applications using <mark>Ansible</mark>, maintaining storage systems like <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, managing <mark>MySQL</mark> databases, and overseeing backup systems such as <mark>Percona XtraBackup</mark> and Borg Backup. Furthermore, I maintain hypervisors such as <mark>XCP-NG</mark> and storage systems based on <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, as well as contribute to cybersecurity scan development.
 
             
 
@@ -117,7 +117,7 @@ content:
         sub_title: General it technician "Freelence"
         caption: 2017 - Present
         quote: >
-          Pro-aduio is audilogy office
+          Pro-audio is audilogy office
         description: | # this will include new lines to allow paragraphs
          I provide IT consultations, handle tasks, and offer general IT support for Windows workstations, small storage, and network infrastructure <mark>Mikrotik</mark>, ensuring they are up-to-date and secure.
 
@@ -151,7 +151,7 @@ content:
         sub_title: Aplication server specialist
         caption: 2009 - 2011
         quote: >
-          Czech part of T-Systems was part of Deutche telecom nowdays is fused with T-Mobile
+          Czech part of T-Systems was part of Deutsche Telekom nowdays is fused with T-Mobile
         description: | # this will include new lines to allow paragraphs
          At the Czech division of T-Systems, formerly part of Deutsche Telekom and now merged with T-Mobile, I supported various applications and databases for clients using technologies such as <mark>IBM AIX</mark>, <mark>IBM WebSphere Applications</mark>, Apache Tomcat, and MS SQL databases. Additionally, I held the roles of Project Manager and Service Owner, responsible for the development and support of internal applications.
 
