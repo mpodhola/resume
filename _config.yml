@@ -80,7 +80,7 @@ content:
         quote: >
           Datavision is a small software development company specializing in vision applications, artificial intelligence, and machine learning.
         description: | # this will include new lines to allow paragraphs
-         At Datavision, my role is highly diverse, ranging from designing and preparing new core infrastructure architecture to handling various automation tasks using tools like <mark>Ansible</mark> and <mark>OpenTofu</mark>. I am also responsible for basic IT tasks, including managing Windows workstations, Git, Jenkins, Windows servers, Linux servers, printers, and other IT-related aspects typical of a small development company.In Datavision my role is very various from preapering designing new core infrastructructure architecture, handling various atuomation taks using <mark>Ansible</mark>, <mark>Open tofu</mark> but also handling  very basic IT tasks also related form Windows workstations, git, jenkins, Windows Servers, Linux servers, and of course printers and other IT aspects related to small Development company.
+         As the Head of IT and DevOps, I am responsible for everything from resource planning to transitioning our infrastructure to Infrastructure as Code <mark>(IaC)</mark>. We focus on improving the delivery pipeline for vision systems for our customers, with a strong emphasis on automation. My responsibilities also include standard IT tasks, such as preparing the company for audits, user management, task management, troubleshooting hardware issues, and handling all the various challenges that come with running a small development company.       
   
       - layout: left
         title: Universal Production Partners a.s.
