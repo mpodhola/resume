@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Podhola
-title: Senior System Administrator
+title: Senior System Administrator / Devops engineer
 email: mpodhola@gmail.com
 website: home.vrsocloud.cz
 
@@ -68,16 +68,26 @@ content:
 #          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Datavision s.r.o.
+        link: www.datavision.software
+        # link_text: boringcompany.com
+        sub_title: Head of It/ Devops department
+        caption: 2024 - Present
+        quote: >
+          Datavision is a small software development company specializing in vision applications, artificial intelligence, and machine learning.
+        description: | # this will include new lines to allow paragraphs
+         At Datavision, my role is highly diverse, ranging from designing and preparing new core infrastructure architecture to handling various automation tasks using tools like <mark>Ansible</mark> and <mark>OpenTofu</mark>. I am also responsible for basic IT tasks, including managing Windows workstations, Git, Jenkins, Windows servers, Linux servers, printers, and other IT-related aspects typical of a small development company.In Datavision my role is very various from preapering designing new core infrastructructure architecture, handling various atuomation taks using <mark>Ansible</mark>, <mark>Open tofu</mark> but also handling  very basic IT tasks also related form Windows workstations, git, jenkins, Windows Servers, Linux servers, and of course printers and other IT aspects related to small Development company.
+  
       - layout: left
         title: Universal Production Partners a.s.
         link: upp.cz
         # link_text: boringcompany.com
         sub_title: Linux Administrator "Freelence"
-        caption: 2017 - Present
+        caption: 2017 - 2023
         quote: >
           UPP is the Czech largest Visual effects studio in Czech Republic.
         description: | # this will include new lines to allow paragraphs
