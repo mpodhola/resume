@@ -80,7 +80,7 @@ content:
         quote: >
           Datavision is a small software development company specializing in vision applications, artificial intelligence, and machine learning.
         description: | # this will include new lines to allow paragraphs
-         As the Head of IT and DevOps, I am responsible for everything from resource planning to transitioning our infrastructure to Infrastructure as Code <mark>(IaC)</mark>. We focus on improving the delivery pipeline for vision systems for our customers, with a strong emphasis on automation. My responsibilities also include standard IT tasks, such as preparing the company for audits, user management, task management, troubleshooting hardware issues, and handling all the various challenges that come with running a small development company.       
+         As the Head of IT and DevOps, I am responsible for this two domains in comapany and that include various sub responsibilities which include resource planning, transitioning company infrastructure to code <mark>(IaC)</mark>, Improving the delivery pipeline for vision systems for our customers, with a strong emphasis on automation. My responsibilities also include standard IT tasks, such as preparing the company for audits, user management, task management, troubleshooting hardware issues, netwkorking and security hardening, and handling all the various challenges that come with running a small development company.       
   
       - layout: left
         title: Universal Production Partners a.s.
@@ -220,7 +220,7 @@ content:
      My soft skills include <mark>empathy</mark>, active listening, verbal and nonverbal communication, friendliness, <mark>storytelling</mark>, <mark>humor</mark>, <mark>tolerance</mark>, <mark>collaboration</mark>, sensitivity, relationship building, meditation, <mark>exchanging ideas</mark>, <mark>respectfulness</mark>, negotiation, delegation, analysis, responsibility, self-motivation, observation, initiative, solution-finding, innovation, and focus.
      
      #### Hard
-     My hard skills include proficiency in <mark>Unix-like systems</mark>, Windows systems, SQL, Golang, shell scripting, hardware diagnostics, networking, virtualization, storage, basic web development, web applications, troubleshooting, orchestration with Ansible, system monitoring with Zabbix, IT infrastructure planning, and possessing a B driving license.
+     My hard skills include proficiency in <mark>Unix-like systems</mark>, Windows systems, SQL, shell scripting, hardware diagnostics, networking, virtualization, storage, basic web development, web applications, troubleshooting, orchestration with Ansible, system monitoring with Zabbix & Prometheus, IT infrastructure planning, open-tofu/terraform,very basic knowladge of ceph storage and golang programing and possessing a B driving license.
 
   - title: Languages
     layout: text
