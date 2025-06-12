@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Podhola
-title: Senior System Administrator / Devops engineer
+title: Senior System Administrator / Devops engineer / infrastructure Architect
 email: mpodhola@gmail.com
 website: home.vrsocloud.cz
 
@@ -46,7 +46,7 @@ linkedin_username: martin-podhola-085a60125
 
 # About Section
 # about_title: About Me
-about_profile_image: images/2019-08-13.jpg
+about_profile_image: images/fit_128.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am an IT specialist with over a decade of diverse experience in the IT industry, including international work experience. I mainly specialize in computer and software systems, security and privacy. I am known for excellent organizational skills and prompt troubleshooting. My key areas of expertise include <mark>Linux</mark> and unexpected talent for <mark>cooking curry</mark>. 
 content:
@@ -99,8 +99,8 @@ content:
         title: Baldwinprague s.r.o.
         link: baldwinprague.com
         # link_text: boringcompany.com
-        sub_title: General it technician "Freelence"
-        caption: 2020 - Present
+        sub_title: General was technician "Freelence"
+        caption: 2020 - 2023
         quote: >
           Baldwinprague is small production and post-production house.
         description: | # this will include new lines to allow paragraphs
@@ -111,8 +111,8 @@ content:
         title: Interprax s.r.o.
         link: interprax.cz
         # link_text: boringcompany.com
-        sub_title: General it technician "Freelence"
-        caption: 2017 - Present
+        sub_title: General was technician "Freelence"
+        caption: 2017 - 2024
         quote: >
           Interprax is general practitioner's office
         description: | # this will include new lines to allow paragraphs
@@ -125,7 +125,7 @@ content:
         link: pro-audio.cz
         # link_text: boringcompany.com
         sub_title: General it technician "Freelence"
-        caption: 2017 - Present
+        caption: 2017 - 2023
         quote: >
           Pro-audio is audilogy office
         description: | # this will include new lines to allow paragraphs
@@ -220,7 +220,7 @@ content:
      My soft skills include <mark>empathy</mark>, active listening, verbal and nonverbal communication, friendliness, <mark>storytelling</mark>, <mark>humor</mark>, <mark>tolerance</mark>, <mark>collaboration</mark>, sensitivity, relationship building, meditation, <mark>exchanging ideas</mark>, <mark>respectfulness</mark>, negotiation, delegation, analysis, responsibility, self-motivation, observation, initiative, solution-finding, innovation, and focus.
      
      #### Hard
-     My hard skills include proficiency in <mark>Unix-like systems</mark>, Windows systems, SQL, shell scripting, hardware diagnostics, networking, virtualization, storage, basic web development, web applications, troubleshooting, orchestration with Ansible, system monitoring with Zabbix & Prometheus, IT infrastructure planning, open-tofu/terraform,very basic knowladge of ceph storage and golang programing and possessing a B driving license.
+     My hard skills include proficiency in <mark>Unix-like systems</mark>, Windows systems, SQL, shell scripting, hardware diagnostics, networking, virtualization like: "kvm/quemu, <mark>proxmox</mark>, esxi, xen" , storages, basic web development, web applications, troubleshooting, orchestration with <mark>Ansible</mark>, system monitoring with Zabbix & Prometheus, IT infrastructure planning, open-tofu/terraform,very basic knowladge of ceph storage and ultra basics of golang programing and possessing a B driving license.
 
   - title: Languages
     layout: text
