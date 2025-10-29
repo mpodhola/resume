@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Martin Podhola
-title: Senior System Administrator / Devops engineer / infrastructure Architect
+title: Senior System Administrator / Devops engineer
 email: mpodhola@gmail.com
 website: home.vrsocloud.cz
 
@@ -48,7 +48,7 @@ linkedin_username: martin-podhola-085a60125
 # about_title: About Me
 about_profile_image: images/fit_128.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an IT specialist with over a decade of diverse experience in the IT industry, including international work experience. I mainly specialize in computer and software systems, security and privacy. I am known for excellent organizational skills and prompt troubleshooting. My key areas of expertise include <mark>Linux</mark> and unexpected talent for <mark>cooking curry</mark>. 
+  I am an IT specialist with over a decade of diverse experience in the IT industry, including international work experience. I mainly specialize in computer and software systems, security and privacy. I am known for excellent organizational skills and prompt troubleshooting. My key areas of expertise include <mark>Linux</mark> and unexpected talent for <mark>cooking curry</mark>.
 content:
 #  - title: Projects # Title for the section
 #    layout: list # Type of content section (list/text)
@@ -78,58 +78,61 @@ content:
         sub_title: Head of It/ Devops department
         caption: 2024 - Present
         quote: >
-          Datavision is a small software development company specializing in vision applications, artificial intelligence, and machine learning.
+          Gaining hands-on experience collaborating with small development teams focused on vision systems, AI, and machine learning software delivery.
         description: | # this will include new lines to allow paragraphs
-         As the Head of IT and DevOps, I am responsible for this two domains in comapany and that include various sub responsibilities which include resource planning, transitioning company infrastructure to code <mark>(IaC)</mark>, Improving the delivery pipeline for vision systems for our customers, with a strong emphasis on automation. My responsibilities also include standard IT tasks, such as preparing the company for audits, user management, task management, troubleshooting hardware issues, netwkorking and security hardening, and handling all the various challenges that come with running a small development company.       
-  
+          - Lead the IT & DevOps department, managing internal infrastructure built on <mark>Ubuntu</mark> Linux and other open-source technologies <mark>Proxmox, K3S</mark>.
+          - Drive infrastructure automation and the transition to IaC <mark>Terraform, Ansible, bash </mark>, improving scalability and deployment efficiency.
+          - Support development teams with vision, AI systems, ensuring smooth production delivery.
+          - Support and maintain software development environments, including CI/CD pipelines <mark> Jenkins, Gerrit </mark> and container orchestration and artificial repos <mark>Dockerhub, Nexus</mark>.
+          - Oversee network operations, security <mark>Crowdsec, general linux hardening, Routeros </mark>, monitoring <mark>Prometheus, Grafana</mark>, backups <mark>PBS, Borg</mark>, and corporate IT assets across multiple OS environments.
+          - Contribute to the design and support of vision and IoT systems<mark>hardware designing</mark> deployed for clients.
+          - Ensure ISO 9001 / ISO 27001 compliance through process and security improvements <mark> Department capacity planings </mark>.
+          - Windows, Linux and macOS workstation management and user support.
+          - Wifi network infrastructure management <mark>Mikrotik, Ubiquiti</mark>.
+          - G Suite administration and support and Office 365 administration and support.
+          - IT budgeting, vendor management, and procurement.
+
+            **Key achievements include:**
+            - Rebuilt deployment automation for client vision systems.
+            - Migrated from VMware ESXi → Proxmox.
+            - Enhanced perimeter security and led infrastructure relocation.
+            - Advanced internal IaC workflows and automations.
+
       - layout: left
         title: Universal Production Partners a.s.
         link: upp.cz
         # link_text: boringcompany.com
-        sub_title: Linux Administrator "Freelence"
+        sub_title: Linux Administrator "Freelance"
         caption: 2017 - 2023
         quote: >
-          UPP is the Czech largest Visual effects studio in Czech Republic.
+          Worked with cutting-edge technologies at one of Central Europe’s leading VFX studios.
         description: | # this will include new lines to allow paragraphs
-         At UPP, my typical responsibilities include handling tasks, troubleshooting, and maintaining Linux <mark>CentOS</mark>, <mark>Rocky Linux</mark>, and <mark>Debian</mark> workstations, servers, and network infrastructure. I also monitor servers using <mark>Zabbix</mark> and perform hardware/software diagnostics. In addition, I'm involved in planning development and deploying new software/applications using <mark>Ansible</mark>, maintaining storage systems like <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, managing <mark>MySQL</mark> databases, and overseeing backup systems such as <mark>Percona XtraBackup</mark> and Borg Backup. Furthermore, I maintain hypervisors such as <mark>XCP-NG</mark> and storage systems based on <mark>FreeBSD</mark> and <mark>TrueNAS</mark>, as well as contribute to cybersecurity scan development.
+          - Managed and maintained Linux/Unix servers<mark>Redhat, BSD</mark>, workstations, hypervisors <mark>xcp-ng, xen</mark>, and storage systems, including hardware troubleshooting and performance monitoring.
+          - Designed and delivered core infrastructure and storage solutions critical for production pipelines.
+          - Participated in automation initiatives <mark>Ansible, bash </mark> to streamline system deployment and maintenance processes.
+          - Designed and optimized a high-availability database <mark>mysql, percona backup</mark> cluster with integrated online backup and restore for key pipeline applications.
+          - Handled network diagnostics and optimization to improve infrastructure reliability.
 
-            
+            **Key achievements include:**
+            - Built and implemented the IT infrastructure for UPP’s Budapest branch.
+            - Contributed to the design and development of 3D scanning and rendering infrastructure used in production workflows.
 
       - layout: left
-        title: Baldwinprague s.r.o.
-        link: baldwinprague.com
-        # link_text: boringcompany.com
-        sub_title: General was technician "Freelence"
-        caption: 2020 - 2023
-        quote: >
-          Baldwinprague is small production and post-production house.
-        description: | # this will include new lines to allow paragraphs
-         I provide IT consultations and general IT services, including planning and maintaining servers with virtual machines, network infrastructure <mark>Mikrotik</mark>, and security. Additionally, I manage the <mark>Nextcloud</mark> cloud platform, <mark>MySQL</mark> and <mark>PostgreSQL</mark> databases, and offer user support for <mark>macOS</mark> and <mark>Windows</mark> workstations.
-
-
-      - layout: left
-        title: Interprax s.r.o.
-        link: interprax.cz
-        # link_text: boringcompany.com
-        sub_title: General was technician "Freelence"
+        title: Interprax s.r.o., Baldwinprague s.r.o., Pro-audio s.r.o.
+        sub_title: IT consultant and technician "Site job Freelance"
         caption: 2017 - 2024
         quote: >
-          Interprax is general practitioner's office
+          Provided part-time IT support for small offices, handling diverse technical challenges.
         description: | # this will include new lines to allow paragraphs
-         At Interprax, I provide IT support, handling tasks and offering general IT services. My responsibilities include maintaining <mark>Proxmox</mark> servers, virtual machines, Windows workstations, and medical software PC Doktor, managing small storage and network infrastructure <mark>Mikrotik</mark>, ensuring backups, security, and keeping the infrastructure up-to-date and secure.
+          - Provided comprehensive IT infrastructure services for small businesses, including medical, post-production, and audiology companies.
+          - Designed, deployed, and maintained Linux-based systems, virtualization platforms <mark>Proxmox, MikroTik</mark> network environments.
+          - Delivered end-to-end support for Windows and macOS workstations, storage, and backup systems.
+          - Implemented Nextcloud and other open-source platforms to enable secure data sharing and collaboration.
+          - Managed databases <mark>MySQL, PostgreSQL</mark> and ensured system reliability, monitoring, and disaster recovery readiness.
+          - Strengthened perimeter and endpoint security, introduced centralized management, and optimized network performance.
 
-
-
-      - layout: left
-        title: Pro-audio s.r.o
-        link: pro-audio.cz
-        # link_text: boringcompany.com
-        sub_title: General it technician "Freelence"
-        caption: 2017 - 2023
-        quote: >
-          Pro-audio is audilogy office
-        description: | # this will include new lines to allow paragraphs
-         I provide IT consultations, handle tasks, and offer general IT support for Windows workstations, small storage, and network infrastructure <mark>Mikrotik</mark>, ensuring they are up-to-date and secure.
+          **Key achievements include:**
+            - Built and implemented the IT infrastructure for small offices from the ground based on client requirements.
 
 
       - layout: left
@@ -139,20 +142,38 @@ content:
         sub_title: System specialist
         caption: 2012 - 2017
         quote: >
-          IBM "big blue" Is an American multinational technology corporation 
+          Working at IBM was a great opportunity to gain experience with unique technologies in a mission-critical environment.
         description: | # this will include new lines to allow paragraphs
-         At IBM, my customer-oriented role involved maintaining and resolving various tasks, primarily related to <mark>Oracle databases</mark> with RAC clusters, <mark>AIX</mark> Unix operating system, and managing HACMP clusters. Additionally, I managed hardware issues on IBM Power systems, troubleshooted SAN storage and tape library backup systems <mark>IBM TSM</mark>.   
+          - Maintained and supported <mark>Oracle Database</mark> environments with <mark>RAC clusters</mark> on <mark>AIX</mark> Unix systems.
+          - Administered and optimized HACMP high-availability clusters to ensure service continuity.
+          - Managed IBM Power Systems hardware, including diagnostics and performance tuning.
+          - Troubleshot SAN storage, tape libraries, and <mark>IBM TSM</mark> backup environments.
+          - Contributed to system automation initiatives <mark>ksh, bash</mark> and backup strategy design to improve reliability and efficiency.
+
+          **Key achievements include:**
+            - Successfully led several critical incident resolutions, minimizing downtime.
+            - Deploy automation scripts that improved system management efficiency.
+            - Participated in major system upgrades and migrations with minimal disruption.
 
       - layout: left
-        title: GE Money Bank
+        title: GE Money Bank *"nowadays Moneta"*
         link: moneta.cz
         # link_text: boringcompany.com
         sub_title: Aplication Analyst
         caption: 2011 - 2012
         quote: >
-         GE Money Bank is one of the  largest bank in the Czech Republic
+         Gained valuable insight into the internal operations of a large banking institution.
         description: | # this will include new lines to allow paragraphs
-         At GE Money Bank, my position involved handling tasks, troubleshooting problems, and developing various APIs and workflows on custom-built ESB. I also worked with <mark>Oracle databases</mark>, focusing on reporting and <mark>documenting projects</mark> through Enterprise Architect.
+          - Developed and maintained APIs and integration workflows on a custom-built Enterprise Service Bus (ESB) platform.
+          - Troubleshot and resolved system and integration issues to ensure service reliability.
+          - Worked with <mark>Oracle Databases</mark> for data processing, reporting, and system optimization.
+          - Created technical documentation and project reports using Enterprise Architect.
+
+          **Key achievements include:**
+            - Improved integration processes, enhancing data flow efficiency.
+            - Contributed to the successful implementation of new banking services.
+
+
 
       - layout: left
         title: T-Systems
@@ -161,32 +182,34 @@ content:
         sub_title: Aplication server specialist
         caption: 2009 - 2011
         quote: >
-          Czech part of T-Systems was part of Deutsche Telekom nowdays is fused with T-Mobile
+          During my time at T-Systems, I gained essential insight into service-oriented architecture and first-hand experience in leading projects and taking responsibility for key services.
         description: | # this will include new lines to allow paragraphs
-         At the Czech division of T-Systems, formerly part of Deutsche Telekom and now merged with T-Mobile, I supported various applications and databases for clients using technologies such as <mark>IBM AIX</mark>, <mark>IBM WebSphere Applications</mark>, Apache Tomcat, and MS SQL databases. Additionally, I held the roles of Project Manager and Service Owner, responsible for the development and support of internal applications.
+          - Supported and maintained applications and databases for enterprise clients using <mark>IBM WebSphere Application Server, Apache Tomcat, and MS SQL</mark>.
+          - Provided technical troubleshooting and performance optimization across multiple environments.
+          - Acted as Project Manager and Service Owner for the development and support of internal business applications.
+          - Collaborated with cross-functional teams to ensure service reliability, change management, and process improvement.
+
+          **Key achievements include:**
+            - Successfully managed several high-impact projects, improving application performance and reliability.
+            - Developed expertise in application server technologies and enterprise IT solutions.
 
       - layout: left
         title: Hönigsberg & Düvel Datentechnik Czech s.r.o.
-        link: 
+        link:
         # link_text: boringcompany.com
         sub_title: Aplication server specialist
         caption: 2008 - 2009
         quote: >
-          H&D was an IT company owned by Volkswagen A.G.
+          Working at H&D was a valuable learning experience that introduced me to the Unix world and gave me insight into how IT operates within large multinational corporations such as Volkswagen.
         description: | # this will include new lines to allow paragraphs
-         At H&D, an IT company owned by Volkswagen AG, I was a member of the support team for Siemens Teamcenter Engineering PLM applications and <mark>IBM WebSphere Application servers</mark>, built on Sun servers. This role, based in Wolfsburg, was my most significant international IT experience, working directly for Volkswagen AG.
+          - Provided application support for Siemens Teamcenter Engineering PLM and <mark>IBM WebSphere Application Server</mark> running on <mark>Sun Microsystems</mark> infrastructure.
+          - Monitored, maintained, and optimized enterprise systems supporting Volkswagen AG’s engineering operations.
+          - Collaborated with international teams to troubleshoot issues and ensure high service availability.
+          - Served on-site in Wolfsburg, gaining valuable international experience working directly for Volkswagen AG.
 
-      
-      - layout: left
-        title: Guinness Storehouse
-        link: https://www.guinness-storehouse.com/en/home
-        # link_text: boringcompany.com
-        sub_title: Bartender
-        caption: 2007-2008
-        quote: >
-          Largest Irish brewery
-        description: | # this will include new lines to allow paragraphs
-            I held the role of an exceptional bartender and mastered the <mark>English language</mark>.
+          **Key achievements include:**
+            - Successfully resolved critical application issues, minimizing downtime for engineering teams.
+            - Gained international work experience and enhanced cross-cultural communication skills.
 
 
   - title: Education # Title for the section
@@ -202,7 +225,7 @@ content:
          During my time at TUL, I developed key skills such as teamwork and working to tight deadlines, which I have applied throughout my career. I enjoyed my university experience and gained valuable insight into maintaining a healthy work-life balance.
 
 
-      
+
       - layout: left
         title: SPŠ VOŠ Jičín
         caption: 2000 - 2004
@@ -212,15 +235,34 @@ content:
         description: | # this will include new lines to allow paragraphs
          During my studies in high school, I acquired the foundational knowledge of electricity and computers, which has been essential to my career.
 
-    
+
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-     #### Soft
-     My soft skills include <mark>empathy</mark>, active listening, verbal and nonverbal communication, friendliness, <mark>storytelling</mark>, <mark>humor</mark>, <mark>tolerance</mark>, <mark>collaboration</mark>, sensitivity, relationship building, meditation, <mark>exchanging ideas</mark>, <mark>respectfulness</mark>, negotiation, delegation, analysis, responsibility, self-motivation, observation, initiative, solution-finding, innovation, and focus.
-     
-     #### Hard
-     My hard skills include proficiency in <mark>Unix-like systems</mark>, Windows systems, SQL, shell scripting, hardware diagnostics, networking, virtualization like: "kvm/quemu, <mark>proxmox</mark>, esxi, xen" , storages, basic web development, web applications, troubleshooting, orchestration with <mark>Ansible</mark>, system monitoring with Zabbix & Prometheus, IT infrastructure planning, open-tofu/terraform,very basic knowladge of ceph storage and ultra basics of golang programing and possessing a B driving license.
+      #### Hard Skills
+      - **Unix-like systems:** 15+ years of experience with various distributions — Debian, Ubuntu, RedHat/CentOS, FreeBSD, AIX, macOS.
+      - **Windows systems:** 30+ years of experience in administration and troubleshooting.
+      - **Automation & Programming:** 13+ years with shell scripting (Bash), Ansible, and Terraform/OpenTofu.
+      - **Hardware:** 10+ years of experience in diagnostics and troubleshooting.
+      - **System Security:** 5+ years in Linux hardening and security best practices.
+      - **Networking:** 10+ years with MikroTik, Linux-based firewalls, VPNs, routing, and switching.
+      - **Virtualization:** 10+ years using KVM/QEMU, Proxmox, VMware ESXi, and Xen platforms.
+      - **Storage:** 10+ years working with NAS/SAN solutions — NFS, SAMBA, iSCSI, Ceph, S3 object storage.
+      - **Web Development:** Experience in building and maintaining websites and web applications using modern frameworks.
+      - **Monitoring & Alerting:** 10+ years with tools such as Zabbix, Prometheus, and Grafana.
+      - **Infrastructure Design:** Designed and built small to mid-scale IT infrastructures from the ground up based on client requirements.
+      - **Driving License:** EU category B.
+
+      #### Soft Skills
+      - **Active listening & communication (verbal and non-verbal)**
+      - **Collaboration & idea exchange**
+      - **Responsibility & self-motivation**
+      - **Analytical thinking & focus**
+      - **Initiative & problem-solving mindset**
+      - **Tolerance, friendliness, and sense of humor**
+      - **Creativity & innovation in solutions**
+
+
 
   - title: Languages
     layout: text
@@ -230,13 +272,13 @@ content:
       English advanced
 
       Russian basic
-  
+
 
 
 
   - title: Hobbies
     layout: text
-    content: | # this will include new lines to allow paragraphs   
+    content: | # this will include new lines to allow paragraphs
       My hobbies include <mark>mountain climbing</mark>, maps, <mark>photography</mark>, reading, continuous learning, philosophy, <mark>cooking</mark>, <mark>walking</mark>, cycling, traveling, cinema.
 
 
