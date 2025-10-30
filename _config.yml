@@ -80,7 +80,7 @@ content:
         quote: >
           Gaining hands-on experience collaborating with small development teams focused on vision systems, AI, and machine learning software delivery.
         description: | # this will include new lines to allow paragraphs
-          - Lead the IT & DevOps department, managing internal infrastructure built on  <mark>Linux</mark> and other open-source technologies <mark>Proxmox, K3S</mark>.
+          - Lead the IT & DevOps department, managing internal infrastructure built on  <mark>Linux</mark> and other open-source technologies <mark>Proxmox, K3s</mark>.
           - Drive infrastructure automation and the transition to IaC <mark>Terraform, Ansible, bash</mark>, improving scalability and deployment efficiency.
           - Support development teams with vision, AI systems, ensuring smooth production delivery.
           - Support and maintain software development environments, including CI/CD pipelines <mark>Jenkins, Gerrit</mark> and container orchestration and artificial repos <mark>Dockerhub, Nexus</mark>.
@@ -154,7 +154,7 @@ content:
         title: GE Money Bank *"nowadays Moneta"*
         link: moneta.cz
         # link_text: boringcompany.com
-        sub_title: Aplication Analyst
+        sub_title: Application Analyst
         caption: 2011 - 2012
         quote: >
          Gained valuable insight into the internal operations of a large banking institution.
@@ -174,7 +174,7 @@ content:
         title: T-Systems
         link: https://www.t-systems.com/de/en
         # link_text: boringcompany.com
-        sub_title: Aplication server specialist
+        sub_title: Application server specialist
         caption: 2009 - 2011
         quote: >
           During my time at T-Systems, I gained essential insight into service-oriented architecture and first-hand experience in leading projects and taking responsibility for key services.
@@ -192,7 +192,7 @@ content:
         title: Hönigsberg & Düvel Datentechnik Czech s.r.o.
         link:
         # link_text: boringcompany.com
-        sub_title: Aplication server specialist
+        sub_title: Application server specialist
         caption: 2008 - 2009
         quote: >
           Working at H&D was a valuable learning experience that introduced me to the Unix world and gave me insight into how IT operates within large multinational corporations such as Volkswagen.
@@ -213,7 +213,7 @@ content:
       - layout: left
         title: Technical University of Liberec
         caption: 2004 - 2006
-        sub_title: Mechatronics (Unfinished)
+        sub_title: Mechatronics „Incomplete“
         quote: >
           Faculty of Mechatronics, Informatics and Interdisciplinary Studies
         description: | # this will include new lines to allow paragraphs
@@ -224,7 +224,7 @@ content:
       - layout: left
         title: SPŠ VOŠ Jičín
         caption: 2000 - 2004
-        sub_title: Finished by final exams
+        sub_title: Graduated with final exams
         quote: >
           Electronic Computer Systems
         description: | # this will include new lines to allow paragraphs
