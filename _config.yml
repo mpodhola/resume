@@ -80,20 +80,17 @@ content:
         quote: >
           Gaining hands-on experience collaborating with small development teams focused on vision systems, AI, and machine learning software delivery.
         description: | # this will include new lines to allow paragraphs
-          - Lead the IT & DevOps department, managing internal infrastructure built on <mark>Ubuntu</mark> Linux and other open-source technologies <mark>Proxmox, K3S</mark>.
-          - Drive infrastructure automation and the transition to IaC <mark>Terraform, Ansible, bash </mark>, improving scalability and deployment efficiency.
+          - Lead the IT & DevOps department, managing internal infrastructure built on  <mark>Linux</mark> and other open-source technologies <mark>Proxmox, K3S</mark>.
+          - Drive infrastructure automation and the transition to IaC <mark>Terraform, Ansible, bash</mark>, improving scalability and deployment efficiency.
           - Support development teams with vision, AI systems, ensuring smooth production delivery.
-          - Support and maintain software development environments, including CI/CD pipelines <mark> Jenkins, Gerrit </mark> and container orchestration and artificial repos <mark>Dockerhub, Nexus</mark>.
-          - Oversee network operations, security <mark>Crowdsec, general linux hardening, Routeros </mark>, monitoring <mark>Prometheus, Grafana</mark>, backups <mark>PBS, Borg</mark>, and corporate IT assets across multiple OS environments.
+          - Support and maintain software development environments, including CI/CD pipelines <mark>Jenkins, Gerrit</mark> and container orchestration and artificial repos <mark>Dockerhub, Nexus</mark>.
+          - Oversee network operations, security <mark>Crowdsec, general linux hardening, Routeros</mark>, monitoring <mark>Prometheus, Grafana</mark>, backups <mark>PBS, Borg</mark>, and corporate IT assets across multiple OS environments.
           - Contribute to the design and support of vision and IoT systems<mark>hardware designing</mark> deployed for clients.
-          - Ensure ISO 9001 / ISO 27001 compliance through process and security improvements <mark> Department capacity planings </mark>.
-          - Windows, Linux and macOS workstation management and user support.
-          - Wifi network infrastructure management <mark>Mikrotik, Ubiquiti</mark>.
-          - G Suite administration and support and Office 365 administration and support.
+          - Ensure ISO 9001 / ISO 27001 compliance through process and security improvements <mark>Department capacity planings</mark>.
           - IT budgeting, vendor management, and procurement.
 
             **Key achievements include:**
-            - Rebuilt deployment automation for client vision systems.
+            - Rebuilt deployment automation for delivery of IoT vision systems.
             - Migrated from VMware ESXi → Proxmox.
             - Enhanced perimeter security and led infrastructure relocation.
             - Advanced internal IaC workflows and automations.
@@ -107,9 +104,9 @@ content:
         quote: >
           Worked with cutting-edge technologies at one of Central Europe’s leading VFX studios.
         description: | # this will include new lines to allow paragraphs
-          - Managed and maintained Linux/Unix servers<mark>Redhat, BSD</mark>, workstations, hypervisors <mark>xcp-ng, xen</mark>, and storage systems, including hardware troubleshooting and performance monitoring.
+          - Managed and maintained <mark>Linux/Unix</mark>,servers, workstations, hypervisors <mark>xcp-ng, xen</mark>, and storage systems, including hardware troubleshooting and performance monitoring.
           - Designed and delivered core infrastructure and storage solutions critical for production pipelines.
-          - Participated in automation initiatives <mark>Ansible, bash </mark> to streamline system deployment and maintenance processes.
+          - Participated in automation initiatives <mark>Ansible, bash</mark> to streamline system deployment and maintenance processes.
           - Designed and optimized a high-availability database <mark>mysql, percona backup</mark> cluster with integrated online backup and restore for key pipeline applications.
           - Handled network diagnostics and optimization to improve infrastructure reliability.
 
@@ -126,7 +123,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Provided comprehensive IT infrastructure services for small businesses, including medical, post-production, and audiology companies.
           - Designed, deployed, and maintained Linux-based systems, virtualization platforms <mark>Proxmox, MikroTik</mark> network environments.
-          - Delivered end-to-end support for Windows and macOS workstations, storage, and backup systems.
           - Implemented Nextcloud and other open-source platforms to enable secure data sharing and collaboration.
           - Managed databases <mark>MySQL, PostgreSQL</mark> and ensured system reliability, monitoring, and disaster recovery readiness.
           - Strengthened perimeter and endpoint security, introduced centralized management, and optimized network performance.
@@ -145,9 +141,8 @@ content:
           Working at IBM was a great opportunity to gain experience with unique technologies in a mission-critical environment.
         description: | # this will include new lines to allow paragraphs
           - Maintained and supported <mark>Oracle Database</mark> environments with <mark>RAC clusters</mark> on <mark>AIX</mark> Unix systems.
-          - Administered and optimized HACMP high-availability clusters to ensure service continuity.
           - Managed IBM Power Systems hardware, including diagnostics and performance tuning.
-          - Troubleshot SAN storage, tape libraries, and <mark>IBM TSM</mark> backup environments.
+          - Troubleshot SAN storage, tape libraries as <mark>IBM TSM</mark> backup environments.
           - Contributed to system automation initiatives <mark>ksh, bash</mark> and backup strategy design to improve reliability and efficiency.
 
           **Key achievements include:**
@@ -167,7 +162,7 @@ content:
           - Developed and maintained APIs and integration workflows on a custom-built Enterprise Service Bus (ESB) platform.
           - Troubleshot and resolved system and integration issues to ensure service reliability.
           - Worked with <mark>Oracle Databases</mark> for data processing, reporting, and system optimization.
-          - Created technical documentation and project reports using Enterprise Architect.
+          - Created technical documentation and project reports.
 
           **Key achievements include:**
             - Improved integration processes, enhancing data flow efficiency.
@@ -241,14 +236,12 @@ content:
     content: | # this will include new lines to allow paragraphs
       #### Hard Skills
       - **Unix-like systems:** 15+ years of experience with various distributions — Debian, Ubuntu, RedHat/CentOS, FreeBSD, AIX, macOS.
-      - **Windows systems:** 30+ years of experience in administration and troubleshooting.
       - **Automation & Programming:** 13+ years with shell scripting (Bash), Ansible, and Terraform/OpenTofu.
       - **Hardware:** 10+ years of experience in diagnostics and troubleshooting.
       - **System Security:** 5+ years in Linux hardening and security best practices.
       - **Networking:** 10+ years with MikroTik, Linux-based firewalls, VPNs, routing, and switching.
       - **Virtualization:** 10+ years using KVM/QEMU, Proxmox, VMware ESXi, and Xen platforms.
       - **Storage:** 10+ years working with NAS/SAN solutions — NFS, SAMBA, iSCSI, Ceph, S3 object storage.
-      - **Web Development:** Experience in building and maintaining websites and web applications using modern frameworks.
       - **Monitoring & Alerting:** 10+ years with tools such as Zabbix, Prometheus, and Grafana.
       - **Infrastructure Design:** Designed and built small to mid-scale IT infrastructures from the ground up based on client requirements.
       - **Driving License:** EU category B.
@@ -262,8 +255,6 @@ content:
       - **Tolerance, friendliness, and sense of humor**
       - **Creativity & innovation in solutions**
 
-
-
   - title: Languages
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -271,16 +262,10 @@ content:
 
       English advanced
 
-      Russian basic
-
-
-
-
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
       My hobbies include <mark>mountain climbing</mark>, maps, <mark>photography</mark>, reading, continuous learning, philosophy, <mark>cooking</mark>, <mark>walking</mark>, cycling, traveling, cinema.
-
 
 # Footer
 footer_show_references: true
