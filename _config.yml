@@ -265,7 +265,7 @@ content:
   - title: Hobbies
     layout: text
     content: | # this will include new lines to allow paragraphs
-      My hobbies include <mark>mountain climbing</mark>, maps, <mark>photography</mark>, reading, continuous learning, philosophy, <mark>cooking</mark>, <mark>walking</mark>, cycling, traveling, cinema.
+      My hobbies include <mark>hiking</mark>, maps, <mark>photography</mark>, reading, continuous learning, philosophy, <mark>cooking</mark>, <mark>walking</mark>, cycling, traveling, cinema.
 
 # Footer
 footer_show_references: true
