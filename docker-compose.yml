@@ -1,0 +1,12 @@
+services:
+  jekyll:
+    image: site2jekyl
+    build: .
+    command: bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling
+    ports:
+      - "4001:4000"
+    volumes:
+      - .:/site
+      - bundle_cache:/gems
+volumes:
+  bundle_cache:
